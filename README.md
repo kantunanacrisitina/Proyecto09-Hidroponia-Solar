@@ -20,3 +20,21 @@ PEGAR AQUÍ EL ENLACE DE GOOGLE DRIVE / ONEDRIVE / YOUTUBE
 
 ## Nota de trazabilidad
 El repositorio se crea después de PC3. Los documentos previos se registran como historial **pre-Git**; no se alteran fechas de commits para simular actividad pasada.
+## Punto de Control 4 – Primera prueba funcional
+
+En el PC4 se documenta el avance de integración del sistema de bombeo
+fotovoltaico para el módulo hidropónico horizontal.
+
+La evidencia disponible incluye el montaje hidráulico y eléctrico,
+la circulación del agua a través de los cuatro canales configurados
+en serpentín, el retorno al depósito y la incorporación de un
+temporizador para programar los periodos de funcionamiento.
+
+### Evidencias
+- Reporte técnico PC4
+- Evidencia fotográfica del montaje
+- Videos de funcionamiento del sistema
+- Registro de pruebas y datos disponibles
+
+Video PC4:
+[Enlace por integrar]
