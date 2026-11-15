@@ -1,0 +1,5 @@
+﻿Variable,Valor,Unidad,Nota
+Volumen recipiente,20.476,L,Medido previamente
+Caudal,14.62,L/min,"Prueba previa, no serpentín PC4"
+Caudal equivalente,877.2,L/h,Conversión
+Tiempo equivalente,84.0,s,Derivado de V/Q; no nueva medición
