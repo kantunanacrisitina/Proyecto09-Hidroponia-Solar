@@ -38,3 +38,21 @@ temporizador para programar los periodos de funcionamiento.
 
 Video PC4:
 [Enlace por integrar]
+## Punto de Control 4
+
+En este punto de control se documenta la primera prueba funcional
+del sistema de bombeo para el módulo hidropónico horizontal.
+
+### Evidencias principales
+- Integración hidráulica del sistema
+- Circulación y retorno al depósito
+- Incorporación de temporizador de 24 horas
+- Seguimiento del desarrollo radicular
+- Documentación técnica PC4
+
+### Video PC4
+[Ver video de la prueba funcional](https://youtu.be/-2kGsqeYGd0?si=XDtWocHtthMrRGsB)
+
+### Reporte PC4
+Disponible en:
+`06_Documentacion_y_Manuales/`
